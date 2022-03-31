@@ -91,11 +91,11 @@ XXX
    will be able to locate the file when "WriteText.INO" is compiled and then transfered to the
    micro computer like a Raspberry Pi or Aurdino.
 
-5. In the "WriteText.INO" file, include the newly created header file at the top of the code with other
+5. In the "LEDMatrixText.INO" file, include the newly created header file at the top of the code with other
    include statements.
 
 
-	-Example- (This is in the "WriteText.INO" file)
+	-Example- (This is in the "LEDMatrixText.INO" file)
 /*
 	  /////////////////////////////////
 	 //     --- Includes ---	//
@@ -109,7 +109,7 @@ XXX
 	-End Example-
 
 
-6. Compile and transfer the "WriteText.INO" file to the micro computer.
+6. Compile and transfer the "LEDMatrixText.INO" file to the micro computer.
 	*Note: Look into Aurduino IDE if you don't know how to do this.
 
 		
