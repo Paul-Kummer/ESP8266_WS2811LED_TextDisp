@@ -6,8 +6,8 @@
 */
 
 //Wifi connection
-const char* ssid            = "Your_Wifi_Name";
-const char* password        = "Your_Wifi_Password";
+const char* ssid            = "FargoClimbing-Guest";
+const char* password        = "climbing";
 
 //NTP Client
 const int16_t utcOffsetSec   = -18000;
@@ -21,8 +21,8 @@ char* daysOfTheWeek[7]       = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thu
 #define BRIGHTNESS          250
 #define VOLTAGE             5
 #define MAX_POWER_MILLIAMPS 2000 //3000 is max for my PSU
-#define LED_WIDTH		      	19
-#define LED_HEIGHT		      5
+#define LED_WIDTH		    19
+#define LED_HEIGHT		    5
 
 //IR Values
 const uint16_t kRecvPin   = 14;

@@ -56,6 +56,7 @@
 	-Libraries-
 	a. tools->managelibraries search for "fastled" and install
 	b. tools->managelibraries search for "IRremoteESP8266"
+	c. tools->managelibraries search for "ESP8266WiFi"
 
 	-Testing-
 	a. file->examples->blink tests that everything works by blinking power indicator

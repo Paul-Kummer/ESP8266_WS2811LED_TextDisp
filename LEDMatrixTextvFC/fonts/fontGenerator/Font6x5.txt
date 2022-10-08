@@ -1,0 +1,657 @@
+A
+  XX
+XX  XX
+XXXXXX
+XX  XX
+XX  XX
+
+B
+XXXXX
+XX  XX
+XXXXX
+XX  XX
+XXXXX
+
+C
+ XXXXX
+XXXXXX
+XX
+XXXXXX
+ XXXXX
+
+D
+XXXX
+XX XX
+XX  XX
+XX XX
+XXXX
+
+E
+XXXXXX
+XX
+XXXXX
+XX
+XXXXXX
+
+F
+XXXXXX
+XX
+XXXXXX
+XX
+XX
+
+G
+ XXXXX
+XX
+XX XXX
+XX  XX
+ XXXX
+
+H
+XX  XX
+XX  XX
+XXXXXX
+XX  XX
+XX  XX
+
+I
+XXXXXX
+  XX
+  XX
+  XX
+XXXXXX
+
+J
+ XXXX
+   XX
+   XX
+X  XX
+ XXX
+
+K
+XX  XX
+XX XX
+XXX
+XX XX
+XX  XX
+
+L
+XX
+XX
+XX
+XXXXXX
+XXXXXX
+
+M
+XX  XX
+XXXXXX
+X XX X
+X XX X
+X XX X
+
+N
+XX  XX
+XXX XX
+XXXXXX
+XX XXX
+XX  XX
+
+O
+ XXXX 
+XX  XX
+XX  XX
+XX  XX
+ XXXX 
+
+P
+XXXXX
+XX  XX
+XXXXX
+XX
+XX
+
+Q
+ XXX 
+X   X
+X   X
+X  XX
+ XXX X
+
+R
+XXXXX
+XX  XX
+XXXXX
+XX  XX
+XX  XX
+
+S
+ XXXXX
+XX
+XXXXXX
+    XX
+XXXXX 
+
+T
+XXXXXX
+  XX
+  XX
+  XX
+  XX
+
+U
+XX  XX
+XX  XX
+XX  XX
+XX  XX
+ XXXX
+
+V
+XX  XX
+XX  XX
+XX  XX
+ X  X
+  XX
+
+W
+X    X
+X XX X
+X XX X
+X XX X
+ X  X 
+
+X
+XX  XX
+ XXXX 
+  XX
+ XXXX
+XX  XX
+
+Y
+XX  XX
+XX  XX
+ XXXX
+  XX
+  XX
+
+Z
+XXXXXX
+    XX
+  XX
+XX
+XXXXXX
+
+a
+~!
+ XXX X
+XX  XX
+XX  XX
+ XXX X
+
+b
+XX
+XX
+XXXXX
+XX  XX
+XXXXX
+
+c
+~!
+ XXXXX
+XX
+XX
+ XXXXX
+
+d
+    XX
+    XX
+ XXXXX
+XX  XX
+ XXXXX
+
+e
+ XXXX
+XX  XX
+XXXXXX
+XX
+ XXXXX
+
+f
+   XXX
+  XX
+XXXXXX
+  XX
+  XX
+
+g
+ XXXXX
+XX  XX
+ XXXXX
+X   XX
+ XXXX 
+
+h
+XX
+XX
+XXXXX
+XX  XX
+XX  XX
+
+i
+  XX
+~!
+  XX
+  XX
+  XX
+
+j
+   XX
+~!
+   XX
+XX XX
+ XXXX
+
+k
+XX
+XX  XX
+XXXXX
+XX  XX
+XX  XX
+
+l
+  XX
+  XX
+  XX
+  XX
+  XX
+
+m
+~!
+ XXXX
+X XX X
+X XX X
+X XX X
+
+n
+~!
+X XXX 
+XX  XX
+XX  XX
+XX  XX
+
+o
+~!
+ XXXX
+XX  XX
+XX  XX
+ XXXX
+
+p
+XXXXX
+XX  XX
+XXXXX
+XX
+XX
+
+q
+ XXXXX
+XX  XX
+ XXXXX
+    XX
+    XX
+
+r
+~!
+X XXX
+XX  XX
+XX
+XX
+
+s
+~!
+ XXXXX
+XXX
+   XXX
+XXXXX 
+
+t
+~!
+  XX
+XXXXXX
+  XX
+  XX
+
+u
+~!
+XX  XX
+XX  XX
+XX  XX
+ XXXX
+
+v
+~!
+XX  XX
+XX  XX
+ X  X
+  XX
+
+w
+~!
+X    X
+X XX X
+X XX X
+ XXXX
+
+x
+~!
+XX  XX
+ XXXX
+ XXXX
+XX  XX
+
+y
+~!
+XX  XX
+ XXXXX
+   XX
+XXXX
+
+z
+~!
+XXXXXX
+   XX
+ XX
+XXXXXX
+
+0
+ XXXX 
+XX  XX
+X XX X
+XX  XX
+ XXXX
+
+1
+ XXX
+X XX
+  XX
+  XX
+XXXXXX
+
+2
+ XXXX
+XX  XX
+   XX
+ XX
+XXXXXX
+
+3
+XXXXX
+    XX
+XXXXX
+    XX
+XXXXX
+
+4
+XX  XX
+XX  XX
+XXXXXX
+    XX
+    XX
+
+5
+XXXXXX
+XX
+XXXXX
+    XX
+XXXXX
+
+6
+  XXX
+XX
+X XXX
+XX  XX
+ XXXX
+
+7
+XXXXXX
+   XX
+  XX
+ XX
+ XX
+
+8
+ XXXX 
+XX  XX
+ XXXX
+XX  XX
+ XXXX 
+
+9
+ XXXXX
+XX  XX
+ XXXXX
+    XX
+    XX
+
+!
+  XX
+  XX
+  XX
+~!
+  XX
+
+@
+ XXXX
+X  X X
+X XXXX
+X  XXX
+ XXXX
+
+#
+ X  X 
+XXXXXX
+ X  X 
+XXXXXX
+ X  X 
+
+$
+ X XX
+XX X 
+ XXX
+ X XX
+XX X
+
+%
+XX  XX
+   XX
+  XX
+ XX
+XX  XX
+
+^
+  XX
+XX  XX
+~!
+~!
+~!
+
+&
+ XXX
+ X X
+XXXX 
+X  X X
+XXXX X
+
+*
+~!
+ X X
+X X X
+ X X
+~!
+
+(
+    XX
+  XX
+ XX
+  XX
+    XX
+
+)
+XX
+  XX
+   XX
+  XX
+XX
+
+[
+XXXXX
+XX
+XX
+XX
+XXXXX
+
+]
+ XXXXX
+    XX
+    XX
+    XX
+ XXXXX
+
+{
+ XXXXX
+ XX
+XX
+ XX
+ XXXXX
+
+}
+XXXXX
+   XX
+     X
+   XX
+XXXXX
+
+<
+    XX
+  XX
+XX
+  XX
+    XX
+
+>
+XX
+  XX
+    XX
+  XX
+XX
+
+?
+ XXXX 
+    XX
+  XX
+~!
+ XX
+
+.
+~!
+~!
+~!
+XXX  
+XXX
+
+,
+~!
+~!
+~!
+  XX  
+ XX
+
+/
+    XX
+   XX
+  XX
+ XX
+XX
+
+\
+XX
+ XX
+  XX
+   XX
+    XX
+
+|
+  XX
+  XX
+  XX
+  XX
+  XX
+
+-
+~!
+~!
+XXXXXX
+~!
+~!
+
+_
+~!
+~!
+~!
+~!
+XXXXXX
+
++
+~!
+  XX
+XXXXXX
+  XX 
+~!
+
+=
+~!
+ XXXX
+~!
+ XXXX
+~!
+
+;
+  XX
+  XX
+~!
+  XX
+ XX
+
+:
+  XX
+  XX
+~!
+  XX
+  XX
+
+'
+  XX
+  XX
+~!
+~!
+~!
+
+"
+ X X
+ X X
+~!
+~!
+~!
+
+~
+~!
+ XX  X
+XXXXXX
+X  XX 
+~!
+
+`
+XX
+ XX
+~!
+~!
+~!

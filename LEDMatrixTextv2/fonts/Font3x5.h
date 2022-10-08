@@ -83,6 +83,7 @@ static std::map<char, std::bitset<15>> charMap3x5 = {
 	{'>', std::bitset<15>(5393)},
 	{'?', std::bitset<15>(13377)},
 	{'.', std::bitset<15>(2)},
+	{',', std::bitset<15>(2)},
 	{'/', std::bitset<15>(30856)},
 	{'\\', std::bitset<15>(672)},
 	{'|', std::bitset<15>(9362)},
